@@ -9,7 +9,7 @@
 # --- Required options --- #
 ############################
 
-# Name of website
+# Name of websi
 title: Fyramiz Test Ad blog
 
 # Your name to show in the footer
@@ -20,11 +20,8 @@ author: Fyramiz
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Me: "i want to die"
+  Author's home: "NULL"
 
 ################
 # --- Logo --- #
@@ -50,21 +47,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  email: "supergamerforads@gmail.com"
+  #remove this line if you don't want to show an RSS link at the bottom
+  facebook: Mbark Draoui
+  github: fyramiz
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: fyramiz
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -85,7 +78,6 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -100,7 +92,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "fyramiz.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
